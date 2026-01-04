@@ -10,6 +10,7 @@
 
 I'm a passionate Full Stack Developer (Aspiring Software Engineer) who believes in building solutions that make a difference. I love to code and curious to learn new techs..
 
+- 🎓 B-Tech (**Computer Science and Engineering**) , pursuing
 - 🌱 Developer **MERN stack**
 - 💡 Currently focused on solving **DSA**
 - 🎯 Always learning, always growing
