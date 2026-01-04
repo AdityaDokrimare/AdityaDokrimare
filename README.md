@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Dokrimare <span><img alt="👋" width="30" src="./assets/gifs/wave.gif" /></span>
+# Hi there, I'm Aditya Dokrimare 👋
 
 <div align="center">
 
