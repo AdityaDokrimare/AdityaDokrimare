@@ -1,8 +1,8 @@
 # Hi there, I'm Aditya Dokrimare 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Problem+Solver+%26+Innovator;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
